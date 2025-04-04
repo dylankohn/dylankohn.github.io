@@ -1,89 +1,54 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dylan Kohn's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Dylan Kohn
+Mobile: (925) 822-5916 | dylankohn1@gmail.com  
+[linkedin.com/in/dylantkohn](https://linkedin.com/in/dylantkohn)
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## Summary
+Computer programmer and software engineer with 10 years of programming experience, constantly learning and improving with a growth mindset. Currently a student at BYU-Idaho studying computer science with an emphasis on machine learning. Exploring a career path in machine learning and embedded systems. Passionate about creating efficient and user-friendly software solutions.
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+## Skills
+- Python, C#, R, HTML, CSS, JavaScript, SQL  
+- Git collaboration & teamwork  
+- API integration & external sources  
+- Fluent in Spanish  
+- Full-stack application development  
+- Knowledge of BigQuery, PowerBi, and GA4  
 
 ## Education
+**Bachelor of Science - Computer Science**  
+Brigham Young University - Idaho  
+2022 - 2026 (estimated) | Rexburg, Idaho  
 
-`1654-1660`
-__The King's School, Grantham.__
+## Service Mission
+**Church of Jesus Christ of Latter-Day Saints**  
+2022 - 2024 | Vancouver, Washington  
+- Learned Spanish to teach native speakers  
+- Taught English classes  
+- Shared religious principles  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Work Experience
+**Web Analytics Integration Programmer**  
+BYU-Idaho  
+- Data Analyst for BYU-Idaho website  
+- Use of SQL and BigQuery for data manipulation  
+- Google Ads and other Ad campaigns management  
 
-- Sizar
+**Company Management Application**  
+DeHaro Construction  
+- Full-stack app to track company assets  
+- Implemented data security through hashing and encryption  
+- Displayed data in one place for ease of access and dynamic manipulation  
 
-`1667 - death`
-__Trinity College, Cambridge__
+**QuickBite Hackathon Webapp**  
+BYU-Idaho Hackathon  
+- Front-end clean UI & back-end API call  
+- 1st place for best UI design  
+- Worked in a team of three to produce app in 24 hours  
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+**Programming with Functions Teachers Assistant**  
+BYU-Idaho Faculty  
+- Worked with students to develop Python skills  
+- Worked with professor to develop course material  
